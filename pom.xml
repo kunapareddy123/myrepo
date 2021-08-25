@@ -7,7 +7,6 @@
   <artifactId>spring-petclinic</artifactId>
   <version>LATEST</version>
   
-
   
   <parent>
     <groupId>org.springframework.boot</groupId>
